@@ -1,3 +1,3 @@
 # traininghomework
-Just me testing stuff
-nothing more than that
+code that i made while learning java for the first time!
+fire
