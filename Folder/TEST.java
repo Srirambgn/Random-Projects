@@ -17,3 +17,4 @@ public class TEST {
     System.out.println("The average motor speed is:" + average);
     }
 }
+// buns

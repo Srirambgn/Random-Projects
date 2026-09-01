@@ -19,3 +19,4 @@ public class homework6 {
         }
     }
 }
+// buns
