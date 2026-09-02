@@ -1,3 +1,2 @@
-# traininghomework
-code that i made while learning java for the first time!
-fire
+code that i create for fun
+## just random codes that i code so i can learn java
